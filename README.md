@@ -1,2 +1,4 @@
-# cars.co.za-scraper
-A simple Python tool to Scrape data from cars.co.za
+# cars.co.za scraper using threaded queues
+
+Link coming soon!
+
